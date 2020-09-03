@@ -1,0 +1,2 @@
+# Easy_Sentimental_Classification
+ SimpleRNN、BidirectionalRNN、BiLSTM
